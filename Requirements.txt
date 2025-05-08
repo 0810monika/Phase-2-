@@ -1,4 +1,4 @@
-. Hardware Requirements:
+1. Hardware Requirements:
 
 | **Component**           | **Description**                                                         |
 | ----------------------- | ----------------------------------------------------------------------- |
