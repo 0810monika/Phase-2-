@@ -52,10 +52,3 @@ Designed for scalability with support for batch processing and real-time APIs. T
 
 11. Outcome & Benefits
 Significant reduction in false positives and undetected frauds, increased trust in digital transactions, and a proactive approach to financial security.
-
-
-
-
----
-
-Would you like this formatted as a PDF or PowerPoint presentation as well?
